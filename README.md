@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Twitter: andrewgunn](https://img.shields.io/twitter/follow/andrewgunn?style=social)](https://twitter.com/andrewgunn)
+[![Linkedin: andrewgunnmina](https://img.shields.io/badge/-andrewgunnmina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewgunnmina/)](https://www.linkedin.com/in/andrewgunnmina/)
+[![GitHub andrewgunn](https://img.shields.io/github/followers/andrewgunn?label=follow&style=social)](https://github.com/andrewgunn)
+
 <!--
 **andrewgunn/andrewgunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
